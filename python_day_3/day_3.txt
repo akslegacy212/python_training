@@ -1,0 +1,11 @@
+1. bin() method - to convert integer to binary
+
+2. rjust() method
+
+3. list comprehension
+
+4. JSON.stringify
+
+5. JSON.dump - converts dictionary data type to string data type
+
+6.

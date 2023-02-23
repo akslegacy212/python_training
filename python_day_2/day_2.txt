@@ -1,0 +1,18 @@
+1. input from user and calculate the index of the first and last number
+
+2. string operations
+
+3. list operations
+
+4. enumerate
+
+5. yield
+
+6. *args & *kwargs
+
+7. __next__ function
+
+8. range
+
+9. stack
+
